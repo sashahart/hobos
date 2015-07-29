@@ -1,20 +1,20 @@
-# Hobos
+# Wanderers
 
-A simple wrapper to return hobos.
+A simple wrapper to return names of wanderers.
 
 ## Why?
 
-Fuck off and read a hobo name.
+Would you kindly read the name of a wanderer?
 
 ## Installation:
 
 ```BASH
-gem install hobos
+gem install wanderers
 ```
 
 And now...
 
 ```bash
-$ hobos
-#=> Big-Tipper Silas Fake-Nickel
+$ wanderers
+#=> Magnanimous Silas Artistic-Nickel
 ```

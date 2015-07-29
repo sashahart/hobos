@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+require 'wanderers'
+
+$api = Wanderers::Api.new
+
+if ARGV[0]
+  puts $api.wanderer ARGV[0]
+else
+  puts $api.wanderer
+end

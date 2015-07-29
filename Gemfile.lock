@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hobos (0.0.6)
+    wanderers (0.0.6)
 
 GEM
   remote: https://rubygems.org/
@@ -50,7 +50,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.6)
-  hobos!
+  wanderers!
   mechanize
   rake
   rspec
